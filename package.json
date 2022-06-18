@@ -41,6 +41,10 @@
     "npm-check": "^5.9.2",
     "standard": "14.3.4"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "standard": {
     "env": {
       "jest": true
